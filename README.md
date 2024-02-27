@@ -1,2 +1,5 @@
-# Hí Anh Em #
-My name is Ngô Tuấn Anh
+# Intro
+
+**Xin chào anh em, mình tên là Ngô Tuấn Anh from PTIT with love**
+
+`một số lưu ý`
