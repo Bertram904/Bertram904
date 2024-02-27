@@ -29,4 +29,4 @@ Table
 |3| anh| vip |
 
 ---
-Mot so repo quan trong: [DSA](
+Mot so repo quan trong: [DSA](https://github.com/Bertram904/Knowledge-about-DSA)
