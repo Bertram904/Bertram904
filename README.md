@@ -59,16 +59,6 @@ Here are the technologies I use to build enterprise-grade applications.
 
 ---
 
-### 🏆 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **High-Scale E-commerce Core** | A Microservices-based backend handling 10k+ requests/sec. Implemented distributed locking and caching strategies. | `Spring Boot` `Kafka` `Redis` `PostgreSQL` |
-| **Real-time Banking Ledger** | Event-driven transaction system ensuring ACID properties across services using Saga Pattern. | `Java 21` `Axon Framework` `Docker` `K8s` |
-| **Smart Logistics API** | Route optimization API using Graph algorithms and geospatial data. | `Spring Cloud` `MongoDB` `gRPC` |
-
----
-
 <div align="center">
   <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
 </div>
